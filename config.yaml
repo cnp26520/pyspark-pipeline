@@ -1,0 +1,4 @@
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=snowloader;AccountKey=m3g8gMO9f4A5Ejb2Ey5CYWS1x03LT6+3a+HqOkMXk1pXBinbaUeRyjb8AAcLVNONYkfhTv0SX35S+AStqlHEZw==;EndpointSuffix=core.windows.net"
+csv_valid_container_name: "valid"
+csv_invalid_container_name: "invalid"
+source_folder: "/Users/Kristen Rose/project/lab1/output"
