@@ -1,5 +1,5 @@
 # pyspark-pipeline
-* A project utilizing apache spark, apache kafka, azure blob storage, and snowflake as a full data pipeline
+## A project utilizing apache spark, apache kafka, azure blob storage, and snowflake as a full data pipeline
 * Link for Java in order to run the Apache Tools I used Java 8 Also make sure to set files paths for java and Spark
 * https://www.oracle.com/java/technologies/downloads/
 * Link for Apache Spark Download version 3.3.3
